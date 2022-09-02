@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.Controller-bg {
+  background-color: #475569;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.input {
+  margin-right: 10px;
+}
+.label {
+  color: #ffffff;
+  font-weight: 500;
+}
+.inputContainer {
+  width: 200px;
+}
+.HEADING {
+  color: #ffffff;
+}

@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.layout-bg {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  padding: 30px;
+  color: #64748b;
+}
